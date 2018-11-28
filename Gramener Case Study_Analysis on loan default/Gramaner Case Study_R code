@@ -455,7 +455,7 @@ corrplot(corr, method="number")
 
 ##################################################################################################
 
-##OBSERVATIONS UNTILL NOW
+##OBSERVATIONS UNTILL NOW_
 
 # Till the univariate analysis, We have seen the distribution of the each and every variables of loan dataset.
 # 75% of applicants applied laon for 36 months term period
